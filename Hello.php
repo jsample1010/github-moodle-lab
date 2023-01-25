@@ -1,2 +1,9 @@
-$hello = "Hello World";
+
+
+<?php
+
+$hello = "Hello World"
 echoo #hello;
+
+?>
+
